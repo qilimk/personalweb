@@ -106,14 +106,14 @@ analytics:
 # Site Author
 author:
   name             : "Qi Li"
-  avatar           : "/assets/images/Qi_bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Qi_202207_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Help people become better by machine learning."
   location         : "Auburn, AL"
   email            : "qzl0019@auburn.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:qzl0019@auburn.edu"
+#       url: "mailto:qzl0019@auburn.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/qilimk"
+      url: "https://github.com/qilimk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
