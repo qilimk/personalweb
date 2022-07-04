@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Projects & Publications"
-    url: /blob/master/papers/archive-layout-with-content.md
+    url: "/papers/archive-layout-with-content.md"
   - title: "Press"
     url: /press/
   - title: "CV"
