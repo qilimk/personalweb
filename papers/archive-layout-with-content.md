@@ -1,6 +1,6 @@
 ---
 title: "Archive Layout with Content"
-layout: archive
+layout: collection
 ---
 
 A variety of common markup showing how the theme styles them.
