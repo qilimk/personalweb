@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Projects & Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /pages/
   - title: "Press"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /press/
   - title: "CV"
     url: /year-archive/
 #   - title: "Proj"
