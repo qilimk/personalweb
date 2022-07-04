@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Qi Li"
   avatar           : "/assets/images/Qi_202207_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Help people become better by machine learning."
+  bio              : "Ph.D. student at Auburn University"
   location         : "Auburn, AL"
   email            : "qzl0019@auburn.edu"
   links:
@@ -116,7 +116,7 @@ author:
       url: "mailto:qzl0019@auburn.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://qilimk.github.io/personalweb"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MkQili"
@@ -157,6 +157,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
