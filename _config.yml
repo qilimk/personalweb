@@ -23,7 +23,7 @@ subtitle                 : "A machine learning learner"
 name                     : "Qi Li"
 description              : "Qi's personal website."
 url                      : "https://qilimk.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "qilimk/personalweb" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/background_202207.jpg" # path of fallback teaser image, e.g. 
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -113,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:qzl0019@auburn.edu"
+      # url: "mailto:qzl0019@auburn.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://qilimk.github.io/personalweb"

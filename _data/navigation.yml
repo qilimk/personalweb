@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Projects & Publications"
-    url: /papers/archive-layout-with-content.md
+    url: /assets/papers/archive-layout-with-content/
   - title: "Press"
     url: /press/
   - title: "CV"
-    url: /year-archive/
+    url: /assets/files/QiLi_CV_202204.pdf
 #   - title: "Proj"
 #     url: /collection-archive/
 #   - title: "Sitemap"
