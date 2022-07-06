@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD:assets/papers/archive-layout-with-content.md
 layout: archive
 title: "Archive Layout with Content"
+=======
+title: "Archive Layout with Content"
+layout: collection
+>>>>>>> 3d03f6011c2ce2afecc2bd4b05e60bb0915a5685:papers/archive-layout-with-content.md
 ---
 
 A variety of common markup showing how the theme styles them.
